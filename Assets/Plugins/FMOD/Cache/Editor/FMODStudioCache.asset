@@ -43,7 +43,7 @@ MonoBehaviour:
   Path: ../Documents/FMOD Studio/Prueba Daniel del Solar/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638301172626895848
+  lastModified: 638301194299005596
   FileSizes:
   - Name: Desktop
     Value: 5946176
@@ -115,7 +115,7 @@ MonoBehaviour:
   Path: ../Documents/FMOD Studio/Prueba Daniel del Solar/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638301172626925829
+  lastModified: 638301194299035571
   FileSizes:
   - Name: Desktop
     Value: 1030
@@ -146,7 +146,7 @@ MonoBehaviour:
   - {fileID: -8105017189407080307}
   StringsBanks:
   - {fileID: -2231944854151102998}
-  cacheTime: 638301186221895690
+  cacheTime: 638301194299035571
   cacheVersion: 131607
 --- !u!114 &2464932605927897433
 MonoBehaviour:

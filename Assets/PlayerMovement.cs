@@ -33,7 +33,6 @@ public class PlayerMovement : MonoBehaviour
         {
             rb2d.AddForce(transform.up * jumpForce);
             canJump = false;
-            m_audioEmitter.Play();
         }
     }
 
@@ -60,7 +59,6 @@ public class PlayerMovement : MonoBehaviour
         if(collision.gameObject.CompareTag("Ground"))
         {
             canJump = true;
-            m_audioEmitter.Play();
         }
     }
 
