@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9b9b664e-b54a-4dbc-a3f7-5f306b3c22b6}">
+		<property name="assetPath">
+			<value>music_lvl_02_electronic_layer_02.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>56.888934240362815</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1501d35d-73ae-4f86-9b6d-0c8c7c497cf4}</destination>
+		</relationship>
+	</object>
+</objects>

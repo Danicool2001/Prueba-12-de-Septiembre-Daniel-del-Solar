@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{861910b1-1fe8-4729-8c85-70402decac4a}">
+		<property name="assetPath">
+			<value>wooden_collision_2_dry_dull.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.66358276643990932</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1501d35d-73ae-4f86-9b6d-0c8c7c497cf4}</destination>
+		</relationship>
+	</object>
+</objects>
